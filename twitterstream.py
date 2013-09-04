@@ -1,7 +1,6 @@
 import oauth2 as oauth
 import urllib2 as urllib
 
-# See Assignment 1 instructions or README for how to get these credentials
 access_token_key = "taken out for github :)"
 access_token_secret = "taken out for github :)"
 
